@@ -1,0 +1,13 @@
+# ninja log v6
+6	1529	7704003812533616	CMakeFiles/Game__Caro.dir/Player.cpp.obj	19781cc2f5610be8
+3	1807	7704980183961675	CMakeFiles/Game__Caro.dir/main.cpp.obj	d2057ef3c89aa4ed
+11	1630	7702632174852866	CMakeFiles/Game__Caro.dir/Matrix.cpp.obj	a48c3c81935b3a7e
+3	284	7704981382248419	build.ninja	9898f06893f02c8b
+1988	2201	7704980783810162	Game__Caro.exe	a589db6e701e61bc
+6	1292	7704269077713694	CMakeFiles/Game__Caro.dir/Game.cpp.obj	f7748a7b2780ced0
+8	1789	7704980764006256	CMakeFiles/Game__Caro.dir/src/Player.cpp.obj	523c152109102ef9
+4	1195	7704194401118383	CMakeFiles/Game__Caro.dir/Board.cpp.obj	19070577a286fe80
+18	1795	7704980764106209	CMakeFiles/Game__Caro.dir/src/Game.cpp.obj	41cc808a8849df06
+13	1988	7704980764060657	CMakeFiles/Game__Caro.dir/src/Board.cpp.obj	92811b98886f7915
+4	1242	7704984307383802	CMakeFiles/Game__Caro.dir/main.cpp.obj	d2057ef3c89aa4ed
+1242	1338	7704984319764160	Game__Caro.exe	a589db6e701e61bc

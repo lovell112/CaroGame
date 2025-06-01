@@ -1,0 +1,3 @@
+D:/WINAPI/Game__Caro/cmake-build-debug/CMakeFiles/Game__Caro.dir
+D:/WINAPI/Game__Caro/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/WINAPI/Game__Caro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
