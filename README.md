@@ -1,7 +1,7 @@
 
 # 🎮 Dự án Game Cờ Caro Console bằng C++
 
-> Tác giả: [Tên bạn]  
+> Tác giả: Trần Nguyễn Xuân Sơn  
 > Ngôn ngữ: C++  
 > IDE khuyến nghị: CLion, Visual Studio, hoặc Code::Blocks  
 > Nền tảng: Windows (sử dụng WinAPI)
@@ -27,10 +27,10 @@
 
 ## 🛠️ Công nghệ sử dụng
 
-- Ngôn ngữ: **C++17**
+- Ngôn ngữ: **C++20**
 - Hệ điều hành: **Windows**
 - Thư viện: **WinAPI** (con trỏ, màu sắc, bàn phím...)
-- Build system: **CMake** (nếu dùng CLion)
+- Build system: **CMake**
 - IDE: CLion / Visual Studio / Code::Blocks
 
 ---
@@ -42,13 +42,11 @@ CaroGame/
 ├── include/              # Header files (.h)
 │   ├── Game.h
 │   ├── Board.h
-│   ├── Player.h
-│   └── Utils.h
+│   └── Player.h
 ├── src/                  # Source files (.cpp)
 │   ├── Game.cpp
 │   ├── Board.cpp
-│   ├── Player.cpp
-│   └── Utils.cpp
+│   └── Player.cpp
 ├── main.cpp              # Entry point
 ├── CMakeLists.txt        # CMake build configuration
 └── README.md             # Mô tả dự án
