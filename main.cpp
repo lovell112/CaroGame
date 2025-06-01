@@ -107,7 +107,7 @@ void run(Board board, Player player_1, Player player_2) {
             caro.switchPlayer();
         }
 
-        Sleep(5000);
+        Sleep(50);
     }
 
     // Display winner
